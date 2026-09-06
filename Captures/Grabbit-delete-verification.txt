@@ -1,0 +1,9 @@
+PASSED / 8 integration assertions
+PASS Actual Delete button removes active map file
+PASS Deleted map appears in trash
+PASS Deletion updates numbered stage cards immediately
+PASS Deleting another map preserves current draft
+PASS Actual Restore button restores every saved field
+PASS Restored map returns to stage selection
+PASS Empty stage list exposes maker icon
+PASS Empty stage list can still open maker

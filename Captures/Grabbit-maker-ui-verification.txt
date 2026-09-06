@@ -1,0 +1,14 @@
+PASSED / 13 assertions
+PASS Actual grid clicks place two boxes
+PASS Rabbit brush places start on box
+PASS Flag brush produces valid board
+PASS Save button writes JSON
+PASS Saved map is registered as a stage
+PASS Test button enters playable map with edit return
+PASS Test uses authored boxes
+PASS Authored map walk accepted
+PASS Test clear returns to stage selection
+PASS Test movement preserves editable initial layout
+PASS Home contains only logo text
+PASS Start is icon-only
+PASS All stage text is numeric

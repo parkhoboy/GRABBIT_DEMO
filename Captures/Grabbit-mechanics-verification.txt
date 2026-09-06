@@ -1,0 +1,15 @@
+2026-09-07 / Unity 6000.6.0f1 / mechanism revision
+Core verification: PASS 75113 assertions. Seed 907: 3000 layouts, 9379 accepted actions, 5621 rejected actions.
+Six-face adjacency only; rabbit and supporting run translate together; gravity at translated cell; W/S walking and A/D stationary yaw; all blocks movable.
+
+PASSED / 8981 play-mode assertions
+PASS frame-by-frame rabbit/chunk co-motion and delayed gravity rotation.
+PASS animated exercise, text-free scene and continued play for stage 1
+PASS animated exercise, text-free scene and continued play for stage 2
+PASS animated exercise, text-free scene and continued play for stage 3
+PASS animated exercise, text-free scene and continued play for stage 4
+PASS animated exercise, text-free scene and continued play for stage 5
+PASS Undo, Restart and stage switching during animation.
+PASS actual Input System keys: W/S, A/D, Space, Z/R, hold/priority and stage shortcuts.
+
+Windows build was not run or updated for this revision.

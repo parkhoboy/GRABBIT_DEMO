@@ -1,0 +1,19 @@
+2026-09-07 / Unity 6000.6.0f1
+Core: PASS 75113 assertions; 3000 generated boards.
+
+PASSED / 8209 play-mode assertions
+PASS frame-by-frame rabbit/chunk co-motion and delayed gravity rotation.
+PASS animated exercise, text-free board and clear return for stage 1
+PASS animated exercise, text-free board and clear return for stage 2
+PASS animated exercise, text-free board and clear return for stage 3
+PASS animated exercise, text-free board and clear return for stage 4
+PASS animated exercise, text-free board and clear return for stage 5
+PASS Undo, Restart and stage switching during animation.
+PASS actual Input System keys: W/S, A/D, Space, Z/R, hold/priority and stage shortcuts.
+
+PASSED / 126 flow assertions
+PASS real mouse clicks: title, stage selection, icon menu, modal blocking and resume.
+PASS pause/resume mid-slam, stage return, title return and stale-animation cancellation.
+PASS all five authored clear routes, paused clear timer, completion marks and replay.
+
+Windows build was not run or updated.

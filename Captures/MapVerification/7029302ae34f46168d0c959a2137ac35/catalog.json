@@ -1,0 +1,9 @@
+{
+    "deletedBuiltIns": [
+        "builtin-1",
+        "builtin-2",
+        "builtin-3",
+        "builtin-4",
+        "builtin-5"
+    ]
+}
